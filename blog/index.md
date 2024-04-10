@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: More about me
-      link: /markdown-examples
+      link: /about-kumar-gaurav
     - theme: alt
       text: something
       link: /api-examples
