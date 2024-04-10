@@ -22,6 +22,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
+      { icon: 'x', link: 'https://x.com/7qruzer' },
+      { icon: 'linkedin', link: 'https://linkedin.com/in/heykumargaurav' },
       { icon: 'github', link: 'https://github.com/ikmrgrv' }
     ],
 
