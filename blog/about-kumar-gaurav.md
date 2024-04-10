@@ -38,7 +38,7 @@ I would love to hear from you if you think there's a great opportunity for us to
 | Quizizz                                            | 2022-2023 |
 
 :::tip PS: Q Factor
-Check for the companies I have worked with starting with Q
+Check for the companies I have worked with starting with Q 😄
 :::
 
 ### Entrepreneur
@@ -47,12 +47,13 @@ Check for the companies I have worked with starting with Q
   - Build and ran operations.
   - ~500 Monthly Active Users and ~50 Monthly orders
 - Formed *Qruze* - a community of car and road trip enthusiasts
-- Quido - researched and worked on Childcare and Early childhood development.
+- *Quido* - researched and worked on Childcare and Early childhood development.
 
 ## Social Links
 
 [Twitter](https://twitter.com/7qruzer)  
 [Peerlist](https://peerlist.com/kumargaurav)  
+[Calendly](https://calendly.com/ikumargaurav)  
 [Linkedin](https://linkedin.com/in/heykumargaurav)  
 [Reddit](https://reddit.com/u/ikmrgrv)  
 [Stack Overflow](https://stackoverflow.com/users/6512858/kumar-gaurav)  
