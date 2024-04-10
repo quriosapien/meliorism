@@ -23,9 +23,15 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ikmrgrv' }
-    ]
+    ],
+
+    footer: {
+      message: 'Handcrafted with 💜 in Bangalore, India',
+      copyright: 'Copyright © 1995-present <a href="https://x.com/7qruzer" target="_blank" rel="noreferrer">Kumar Gaurav</a>'
+    }
   },
   sitemap: {
     hostname: 'https://meliorism.ink'
-  }
+  },
+  lastUpdated: true
 })
