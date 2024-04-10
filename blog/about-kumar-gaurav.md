@@ -52,4 +52,9 @@ Check for the companies I have worked with starting with Q
 
 ## Social Links
 
-Entrepreneur. Build *Twople* - a marketplace of activities (), Qruze (a community of car and road trip enthusiasts)
+[Twitter](https://twitter.com/7qruzer)  
+[Peerlist](https://peerlist.com/kumargaurav)  
+[Linkedin](https://linkedin.com/in/heykumargaurav)  
+[Reddit](https://reddit.com/u/ikmrgrv)  
+[Stack Overflow](https://stackoverflow.com/users/6512858/kumar-gaurav)  
+[Medium](https://medium.com/@ikumargaurav)
