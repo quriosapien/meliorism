@@ -19,10 +19,9 @@ Graduated in 2018, I started working with startups and enjoyed it sooo much, tha
 
 I interned and worked full time briefly as business development executive with a Flipkart funded startup, moving quickly to the software realm. Worked for 5ish years as FullStack Software Engineer with startups of various size and scale ( [details below](/about-kumar-gaurav.html#software-engineer) ). Enjoyed working close to founders.
 
-To harness my new found interest in Entrepreneurship, I left Quizizz in Jan'23 and started building my own company.  
-Lots of learnings, realised what I am good at (tech, product, analytics) and what I need to work upon (cold-communications, sales, marketing, strategies, market-research).
+To harness my new found interest in Entrepreneurship, I left Quizizz in Jan'23 and started building my own company. Lots of learnings, realised what I am good at (*tech, product, analytics*) and what I need to work upon (*cold-communications, sales, marketing, strategies, market-research*).
 
-Looking to start working again. Looking for a good team and company to build amazing products.
+Looking to start working full-time again. In search of a good team and company to build amazing products.
 I would love to hear from you if you think there's a great opportunity for us to work together.
 
 ### Software Engineer
