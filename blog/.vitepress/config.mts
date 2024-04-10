@@ -24,5 +24,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ikmrgrv' }
     ]
+  },
+  sitemap: {
+    hostname: 'https://meliorism.ink'
   }
 })
