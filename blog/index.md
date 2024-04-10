@@ -9,18 +9,18 @@ hero:
   tagline: Kumar Gaurav
   actions:
     - theme: brand
-      text: More about me
+      text: Learn more about me
       link: /about-kumar-gaurav
-    - theme: alt
-      text: something
-      link: /api-examples
+    - theme: none
+      text: Recent contents
+      link: /recent-contents
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#   - title: Feature A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
