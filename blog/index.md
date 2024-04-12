@@ -12,7 +12,7 @@ hero:
       text: Learn more about me
       link: /about-kumar-gaurav
     - theme: none
-      text: Recent contents
+      text: Some recent contents
       link: /recent-contents
 
 # features:
