@@ -16,9 +16,18 @@ export default defineConfig({
         text: '',
         items: [
           { text: 'About Me', link: '/about-kumar-gaurav' },
-          { text: 'Recent Contents', link: '/recent-contents' }
+          { text: 'Recent Contents', link: '/recent-contents' },
+          { text: 'Follow me on Twitter', link: 'https://x.com/7qruzer' },
         ]
-      }
+      },
+      {
+        text: 'Some Latest Contents',
+        collapsed: false,
+        items: [
+          { text: 'Being Better Software Engineer', link: '/technology-and-engineering/being-better-software-engineers' }
+        ]
+      },
+
     ],
 
     socialLinks: [
