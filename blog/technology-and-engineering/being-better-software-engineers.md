@@ -5,19 +5,19 @@ My learnings in the years I have wokred in vaious companies holding various role
 It's not a complete and comprehensive guide.  
 And I will keep updating it as and when I have something more to add.
 
-## My learnings compiled in as brief as I could -
+## My learnings, as brief as I could compile them
 
-### Communicate - it's your job
+### Communicate - it's our job
 
 Gotta learn this one very important life skill. Can't help.
 
-Question things. For with questioning, comes clarity. Be humble though as you don't know what others are going through.
+Question things. For with questioning, comes clarity. Be humble though as we don't know what others are going through.
 
-Learn to find answers on your own. For the best help you can have is you yourself!
+Learn to find answers on your own. For the best help we can have is us ourself!
 
 ### Empathy
 
-You are there to build products, and not just write code (cause AI's gonna do that better than you someday! 🤞🏻)
+We are here to build products, and not just write code (cause AI's gonna do that better than us someday! 🫤)
 
 Adding more software isn't always the solution. Sometimes, it's reducing code.
 
@@ -26,7 +26,7 @@ Talk to them, spend some time with them when they are using your product. Learn 
 
 ### Design, not Chance
 
-Don't let things happen by chance. Whether it's imporving your coding skills, acquiring new skillset, collaboration, even your promotion, don't let these happen on their own.
+Don't let things happen by chance. Whether it's imporving your coding skills, acquiring new skillset, collaboration, even our promotion, don't let these happen on their own.
 Merely wiritng code or just exisiting (staying) in a company won't do much good.
 
 Instead, talk to people who have already done it, take help and advice to pave your own path.
