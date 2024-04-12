@@ -1,3 +1,9 @@
+---
+prev: 
+  text: Home
+  link: /
+---
+
 # On being a better Software Engineer
 
 My learnings in the years I have wokred in vaious companies holding various roles.  
