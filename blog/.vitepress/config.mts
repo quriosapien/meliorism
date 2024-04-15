@@ -51,6 +51,58 @@ export default defineConfig({
           y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
       })(window, document, "clarity", "script", "lw0beg385o");`
     ],
+    [
+      'meta',
+      {
+        property: 'og:image',
+        content: 'https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v4/meliorism.ink/Meliorism/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fdocuments%2Fa2ba4809-e63e-427d-9378-d2719ec36603.png%3Ftoken%3DY5E6ri9Zn6zouOBrIy48aQIUi0YFW5f1bl9C6ODZrOs%26height%3D1200%26width%3D1200%26expires%3D33249157833/og.png'
+      }
+    ],
+
+    // OG:TWITTER
+    [
+      'meta',
+      {
+        name: 'twitter:card',
+        content: 'summary_large_image'
+      }
+    ],
+    [
+      'meta',
+      {
+        property: 'twitter:domain',
+        content: 'meliorism.ink'
+      }
+    ],
+    [
+      'meta',
+      {
+        property: 'twitter:url',
+        content: 'https://meliorism.ink'
+      }
+    ],
+    [
+      'meta',
+      {
+        name: 'twitter:title',
+        content: 'Meliorism'
+      }
+    ],
+    [
+      'meta',
+      {
+        name: 'twitter:description',
+        content: 'My perspective of the future - Kumar Gaurav'
+      }
+    ],
+    [
+      'meta',
+      {
+        name: 'twitter:image',
+        content: 'https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v4/meliorism.ink/Meliorism/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fdocuments%2Fa2ba4809-e63e-427d-9378-d2719ec36603.png%3Ftoken%3DY5E6ri9Zn6zouOBrIy48aQIUi0YFW5f1bl9C6ODZrOs%26height%3D1200%26width%3D1200%26expires%3D33249157833/og.png'
+      }
+    ]
+
     // [
     //   'script',
     //   {},
