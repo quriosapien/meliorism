@@ -10,7 +10,7 @@ I grew good enough risk apetite to leave a very well established software engine
 ----
 
 Being Entrepreneur for more than a year, taught me a lot of things, which otherwise take years to learn.
-Learning from youtube (YC, A16Z, Stanford Business etc), [eassays of PG](https://paulgraham.com/articles.html), reading case studies etc is a good start for anyone new in this field.
+Learning from youtube (YC, A16Z, Stanford Business etc), [essays of PG](https://paulgraham.com/articles.html), reading case studies etc is a good start for anyone new in this field.
 But there's no matching to what and how you learn once you build something. Execution prevails all knowledge, readings, and the 148 other ways of procrastination.
 
 ----
