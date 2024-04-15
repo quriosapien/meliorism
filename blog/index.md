@@ -15,12 +15,12 @@ hero:
       text: Some recent contents
       link: /recent-contents
 
-# features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+features:
+  - title: Entrepreneur
+    details: Build Twople, Qruze among other ventures. Most of my time goes in this domain.
+  - title: Software Engineer
+    details: With over 5+ years of experience developing and deploying full-stack web/mobile apps at varying scale.
+  - title: Design Enthusiast
+    details: Always curious to learn about good designs. 
 ---
 
