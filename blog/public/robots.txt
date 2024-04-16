@@ -1,4 +1,4 @@
-Uesr-agent: *
+User-agent: *
 Allow: /
 
 Sitemap: https://meliorism.ink/sitemap.xml
