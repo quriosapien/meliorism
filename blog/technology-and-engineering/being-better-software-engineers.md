@@ -50,6 +50,8 @@ It always helps to know the tools you use regularly.
 
 Be it git, your IDE shortcuts or fundamentals on how the programming language you code on, works.
 
+Get a good typing speed. It helps for sure!
+
 ## Good Reads
 
 I love reading and always look for another great recommendation
