@@ -4,6 +4,8 @@
 
 * [Being better Software Engineer](./technology-and-engineering/being-better-software-engineers)
 
+* [Trip to Rameshwaram](./trips/2024-rameshwaram)
+
 * [Learning FrontEnd Development](./technology-and-engineering/frontend-beginner)
 
 ----
