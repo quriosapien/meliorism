@@ -13,6 +13,9 @@ hero:
     - theme: none
       text: Some recent contents
       link: /recent-contents
+    - theme: none
+      text: Trips & Travel Stories
+      link: /trips-and-travel
 
 features:
   - title: Entrepreneur
