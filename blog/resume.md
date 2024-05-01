@@ -49,3 +49,19 @@ Worked on a couple of ideas afterwards, including -
 
    - Build BliBliPlay
    - Discover & Search Migration
+
+## Skillsets & Tools
+I have worked with quite a few tools, and I don't hesitate to pickup a new tool if it's efficient and useful for solving the problem in hand.  
+
+##### Enlisting here some of them- 
+
+* HTML, CSS, TailwindCSS, SASS/SCSS
+* JavaScript, TS, ES6+, ESnext
+* VueJS, NuxtJS, ReactJS
+* ReactNative, Flutter
+* Node, Deno, ExpressJS,
+* MongoDB, PostgreSQL, ElasticSearch
+*  Redis, Kafka,
+* GoLang, Python
+* Firebase, Supabase, 
+* DenoDeploy, Vercel, AWS, Azure, GCP
