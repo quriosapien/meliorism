@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Meliorism",
-  description: "My perspective of the future - Kumar Gaurav",
+  description: "My perspective - Kumar Gaurav",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

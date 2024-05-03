@@ -4,18 +4,18 @@ layout: home
 
 hero:
   name: "Meliorism"
-  text: World through my lens
-  tagline: Kumar Gaurav
+  text: ""
+  tagline: By Kumar Gaurav
   actions:
     - theme: brand
-      text: Learn more about me
+      text:  More about me
       link: /about-kumar-gaurav
     - theme: none
-      text: Some recent contents
+      text: Recent contents
       link: /recent-contents
     - theme: none
-      text: Trips & Travel Stories
-      link: /trips-and-travel/
+      text: Travel Stories & Trips
+      link: /travel-and-trips/
 
 features:
   - title: Entrepreneur
