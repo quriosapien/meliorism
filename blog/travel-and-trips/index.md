@@ -1,3 +1,9 @@
+---
+next:
+  text: Other Contents
+  link: /recent-contents
+---
+
 # Memories of my trips and travel
 
 - ##### [Ranchi](./2024-ranchi)
