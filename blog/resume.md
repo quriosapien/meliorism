@@ -21,7 +21,7 @@
 
   <!-- <h4 style="font-weight: normal; margin: 20px auto 5px;">Looking for</h4> -->
   <h4 style="font-weight: normal; margin: 20px auto 0px">Looking for challenging software engineering role, preferbly with ownership of product.</h4>
-  <p style="font-weight: normal; margin: 0px">I am quite adaptable with software tools. I understand the product and business aspects of software, and have good experience of leading teams in past.</p>
+  <p style="font-weight: normal; margin: 0px">I am quite adaptable with software tools. I understand the product and business values of software, and have good experience of leading teams in past.</p>
   
 </div>
 
