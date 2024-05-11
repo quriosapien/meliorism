@@ -3,7 +3,7 @@
 ----
 
 <div style="text-align:center;">
-  <h4 style="font-weight: normal;"> 5+ Years of Technical expertise in builing applications at various scale</h4>
+  <h4 style="font-weight: normal;"> 5+ Years of Technical expertise in building applications at various scale</h4>
   <div style="font-size:13px;">
     <a href="https://linkedin.com/in/heykumargaurav" target="_blank">
       LinkedIn 
