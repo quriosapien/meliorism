@@ -3,3 +3,6 @@
 # vitepress
 **/.vitepress/cache
 **/.vitepress/dist
+
+# MacOS
+.DS_Store
