@@ -3,8 +3,11 @@
 ----
 
 <div style="text-align:center;">
-  <h4 style="font-weight: normal;"> 5+ Years of Technical expertise in building applications at various scale</h4>
+  <h4 style="font-weight: normal;">6 years of expertise in building software forvarious  domains  at  scale,  with  a  yearinvolved  in  Technical  Entrepreneurship.  Ihave  sound  understanding  of  web-technologies</h4>
   <div style="font-size:13px;">
+    <a href="./assets/documents/kumar-gaurav-resume.pdf" target="_blank">
+      Resume PDF 
+    </a> --  
     <a href="https://linkedin.com/in/heykumargaurav" target="_blank">
       LinkedIn 
     </a> --  
@@ -20,12 +23,13 @@
   </div>
 
   <!-- <h4 style="font-weight: normal; margin: 20px auto 5px;">Looking for</h4> -->
-  <h4 style="font-weight: normal; margin: 20px auto 0px">Looking for challenging software engineering role, preferbly with ownership of product.</h4>
+  <h4 style="font-weight: normal; margin: 20px auto 0px">Looking for challenging opportunities in Software Engineering, <br> preferbly with ownership of product and full-stack developer role.</h4>
   <p style="font-weight: normal; margin: 0px">I am quite adaptable with software tools. I understand the product and business values of software, and have good experience of leading teams in past.</p>
   
 </div>
 
 ## Technical Entrepreneurship (Jan 2023 - present)
+Harnessing my interest in Entrepreneurship, I started building my own company full time since January 2023
 
 ### Twople
 - Twople was a marketplace of activites, events and expereiences for working busy couples who find it exhausting to go through never-ending list of suggestions on social medias and search platforms to find one simple thing to do
@@ -42,7 +46,8 @@ Worked on a couple of ideas afterwards, including -
 - **Quido**: OneStop center for afterschool activities for children
 - **ProspectoAI**: SaaS tool to automate and enhance *OutBound based sales* and *lead-gen*
 
-## Senior Software Engineer (2021-2023)
+## Senior Software Engineer 
+Feb 2021 - Feb 2023
 
 ### Quizizz
 
@@ -58,7 +63,8 @@ Worked on a couple of ideas afterwards, including -
 * Ensured quality enhancement and feature addition to the SuperShare web app using NuxtJs framework
 * Set up a system to test crucial user-flows in an automated environment. The tests ran every hour or everyday based on their config.
 
-## Software Engineer (2018-2021)
+## Software Engineer
+Dec 2018 - Feb 2021
 
 ### Quinbay Technologies
 
