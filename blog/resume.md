@@ -5,7 +5,7 @@
 <div style="text-align:center;">
   <h4 style="font-weight: normal;">6 years of expertise in building software forvarious  domains  at  scale,  with  a  yearinvolved  in  Technical  Entrepreneurship.  Ihave  sound  understanding  of  web-technologies</h4>
   <div style="font-size:13px;">
-    <a href="/documents/kumar-gaurav-resume.pdf" target="_blank">
+    <a href="/static/documents/kumar-gaurav-resume.pdf" target="_blank">
       Resume PDF 
     </a> -  
     <a href="https://linkedin.com/in/heykumargaurav" target="_blank">

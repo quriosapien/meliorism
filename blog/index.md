@@ -7,7 +7,8 @@ hero:
   text: ""
   tagline: By Kumar Gaurav
   image:
-    src: /assets/images/dp-1.png
+    src: /static/images/dp-1.png
+    alt: Kumar Gaurav
   actions:
     - theme: brand
       text:  More about me
