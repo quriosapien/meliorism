@@ -1,12 +1,12 @@
 ---
-prev: 
+prev:
   text: Home
   link: /
 ---
 
 # On being a better Software Engineer
 
-My learnings in the years I have wokred in vaious companies holding various roles.  
+My learnings in the years I have wokred in vaious companies holding various roles.
 
 It's not a complete and comprehensive guide.  
 And I will keep updating it as and when I have something more to add.
@@ -58,9 +58,11 @@ I love reading and always look for another great recommendation
 
 Here are some good books I know of -
 
-* User Friendly
-* Move Fast: How Facebook Builds Software
-* Founders at Work
-* Leap Frog
+- User Friendly
+- Move Fast: How Facebook Builds Software
+- Founders at Work
+- Leap Frog
 
-<!-- ## Other Resources -->
+## Other resources
+
+- [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
