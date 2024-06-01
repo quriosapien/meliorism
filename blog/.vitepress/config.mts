@@ -1,10 +1,12 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
+
 export default defineConfig({
   title: "Meliorism",
   description: "My perspective - Kumar Gaurav",
   themeConfig: {
+    
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -19,14 +21,15 @@ export default defineConfig({
           items: [
             { text: 'About Me', link: '/about-kumar-gaurav' },
             { text: 'Recent Contents', link: '/recent-contents' },
-            { text: 'Follow me on Twitter', link: 'https://x.com/7qruzer' },
+            { text: 'Follow me on Twitter', link: 'https://x.com/quriosapein' },
           ]
         },
         {
           text: 'Some Latest Contents',
           collapsed: false,
           items: [
-            { text: 'Being Better Software Engineer', link: '/technology-and-engineering/being-better-software-engineers' }
+            { text: 'Being Better Software Engineer', link: '/technology-and-engineering/being-better-software-engineers' },
+            { text: 'A Year of Entrepreneurship', link: '/memoirs/a-year-of-entrepreneurship' }
           ]
         },
   
@@ -34,14 +37,14 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'x', link: 'https://x.com/7qruzer' },
+      { icon: 'x', link: 'https://x.com/quriosapien' },
       { icon: 'linkedin', link: 'https://linkedin.com/in/heykumargaurav' },
-      { icon: 'github', link: 'https://github.com/ikmrgrv' }
+      { icon: 'github', link: 'https://github.com/quriosapien' }
     ],
 
     footer: {
       message: 'Handcrafted with 💜 in Bangalore, India',
-      copyright: 'Copyright © 1995-present <a href="https://x.com/7qruzer" target="_blank" rel="noreferrer">Kumar Gaurav</a>'
+      copyright: 'Copyright © 1995-present <a href="https://x.com/quriosapien" target="_blank" rel="noreferrer">Kumar Gaurav</a>'
     }
   },
   head: [
@@ -105,16 +108,6 @@ export default defineConfig({
         content: 'https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v4/meliorism.ink/Meliorism/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fdocuments%2Fa2ba4809-e63e-427d-9378-d2719ec36603.png%3Ftoken%3DY5E6ri9Zn6zouOBrIy48aQIUi0YFW5f1bl9C6ODZrOs%26height%3D1200%26width%3D1200%26expires%3D33249157833/og.png'
       }
     ],
-
-    // [
-    //   'script',
-    //   {},
-    //   `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    //   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    //   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    //   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    //   })(window,document,'script','dataLayer','GTM-WMJ2GGPF');`
-    // ],
     [
       'script',
       {
