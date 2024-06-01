@@ -52,7 +52,7 @@ Check for the companies I have worked with starting with Q 😄
 ## Social Links
 
 [Linkedin](https://linkedin.com/in/heykumargaurav)  
-[Twitter](https://twitter.com/7qruzer)  
+[Twitter](https://twitter.com/quriosapien)  
 [Peerlist](https://peerlist.com/kumargaurav)  
 [Calendly](https://calendly.com/ikumargaurav)  
 [Reddit](https://reddit.com/u/ikmrgrv)  

@@ -44,6 +44,6 @@ features:
     src="./assets/images/kumar-gaurav-3.jpeg">
 </div>
 
-Follow me on [instagram](https://instagram.com/7qruzer) for more pics and snaps
+Follow me on [instagram](https://instagram.com/QurioSapien) for more pics and snaps
 
 ---

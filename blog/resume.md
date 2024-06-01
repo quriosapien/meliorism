@@ -11,10 +11,10 @@
     <a href="https://linkedin.com/in/heykumargaurav" target="_blank">
       LinkedIn 
     </a> -  
-    <a href="https://github.com/ikmrgrv" target="_blank">
+    <a href="https://github.com/quriosapien" target="_blank">
       Github 
     </a> -  
-    <a href="https://x.com/7qruzer" target="_blank">
+    <a href="https://x.com/quriosapien" target="_blank">
       Twitter 
     </a> -  
     <a href="https://peerlist.io/kumargaurav" target="_blank">
