@@ -8,25 +8,33 @@ HTML and CSS are the two fundamental basic blocks of web (other two being JS, an
 
 A simple tutorial should be good enough to get you going. Dont' spend more than an hour on each of these.
 
-#### Exercise
+#### _Exercise - HTML, CSS_
 
-- **HTML/CSS Project 1 - Build a Hostel-Admission Form**
-- **HTML/CSS Project 2 - TODO**
-- **HTML/CSS Project 3 - Fun with Flags**
+- **Exercise 1 (HTML/CSS) - Build a Hostel-Admission Form**
+- **Exercise 2 (HTML/CSS) - TODO**
+- **Exercise 3 (HTML/CSS) - Fun with Flags**
 
 ### JS - Language
 
-#### Exercise
+Learn the basics and fundamentals of JavaScript langugage
 
-- **JS Language Project 1**
+Learn about Functions, Objects and Arrays
 
 ### JS - DOM
 
-### JS - WebAPIs
+Learn how JavaScript is used to add various functionality in the web-page, effectively making it what's called a Web-App now a days.
+
+#### _Exercise - JS Language, DOM_
+
+- **Exercise 4 (JS Language, DOM) - Build TicTacToe Game**
+
+### JS - WebAPIs, Fetch
 
 ### JS - Routing
 
-### JS - Fetch
+#### _Exercise - WebAPIs, Fetch, Routing_
+
+- **Exercise 5 (JS WebAPIs, Fetch, Routing) - Build a Music Player**
 
 ### JS - Debugging and Developer's Tools
 
@@ -38,15 +46,17 @@ A simple tutorial should be good enough to get you going. Dont' spend more than 
 
 ### Frameworks - VueJS
 
-## Projects
-
 ### BMI Calculator
 
-### Music Player
+## Projects
 
-### Video Player
+Instructions -
 
-### Video-Streaming-Site
+- It's recommended to use FrameWork (like [VueJS](https://vuejs.org), [ExpressJS](https://expressjs.com))
+
+- ### **Project 1 - Pokemon Fandom World**
+
+- ### **Project 2 - Video-Streaming-Site**
 
 ## System Design
 
