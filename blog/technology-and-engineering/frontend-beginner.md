@@ -53,6 +53,10 @@ Learn how JavaScript is used to add various functionality in the web-page, effec
 Instructions -
 
 - It's recommended to use FrameWork (like [VueJS](https://vuejs.org), [ExpressJS](https://expressjs.com))
+- Use continous integration and deployment, and hosting tools
+
+  - Integration tools - [Github](https://github.com)
+  - Hosting Tools - [Vercel](https://vercel.com), [Netlify](https://netlify.com), etc
 
 - ### **Project 1 - Pokemon Fandom World**
 
