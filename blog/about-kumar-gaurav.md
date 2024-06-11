@@ -1,8 +1,8 @@
 ---
-prev: 
+prev:
   text: Back to home
   link: /
-next: 
+next:
   text: Recent Contents
   link: /recent-contents
 ---
@@ -12,14 +12,15 @@ next:
 ## Okay Kumar, so tell me about yourself...
 
 Sure. To start with, you can call me Kumar or Gaurav, both works! (Some people go with full name, or initialst too...)  
-*I am a little too busy in my life to mind any of that...*
+_I am a little too busy in my life to mind any of that..._
 
-Born and brought up in parts of Central India, shifted to Delhi before joining [college in Bangalore](https://www.msrit.edu/).  
-Graduated in 2018, I started working with startups and enjoyed it sooo much, that I am based out of [HSR Layout](/hsr-layout) now and enjoy the vast community of founders and investors here. Made a few really good friends here.
+Born and brought up in parts of Central India, shifted to and stayed in Delhi before joining [MSRIT (now Ramaiah Institute of Technology) in Bangalore](https://www.msrit.edu/).  
+Graduated in 2018, I started working with startups and enjoyed it sooo much, that I prefer to work with satrtups.  
+I am based out of [HSR Layout](/hsr-layout) now and enjoy the vast community of founders and investors here. Made some really good friends here too.
 
-I interned and worked full time briefly as business development executive with a Flipkart funded startup, moving quickly to the software realm. Worked for 5ish years as FullStack Software Engineer with startups of various size and scale ( [details below](/about-kumar-gaurav.html#software-engineer) ). Enjoyed working close to founders.
+I interned and worked full time briefly as Business Development Executive with a Flipkart funded startup (TinyStep), quickly moving to the Software realm. Worked for 5+ years in capacity of FullStack Software Engineer with startups of various size and scale ( [details below](/about-kumar-gaurav.html#software-engineer) ). I absolutely enjoyed working close to founders.
 
-To harness my new found interest in Entrepreneurship, I left Quizizz in Jan'23 and started building my own company. Lots of learnings, realised what I am good at (*tech, product, analytics*) and what I need to work upon (*cold-communications, sales, marketing, strategies, market-research*).
+To harness my new found interest in Entrepreneurship, I left Quizizz in Jan'23 and started building my own company. Lots of learnings, realised what I am good at (_tech, product, analytics_) and what I need to work upon (_cold-communications, sales, marketing, strategies, market-research_).
 
 Looking to start working full-time again. In search of a good team and company to build amazing products.
 I would love to hear from you if you think there's a great opportunity for us to work together.
@@ -27,14 +28,14 @@ I would love to hear from you if you think there's a great opportunity for us to
 ### Software Engineer
 
 - building fullstack web applications since 2018.
-- contributed to ***Vuejs***, particularly their *CLI tool*, among a few other *open-source projects*.
+- contributed to **_Vuejs_**, particularly their _CLI tool_, among a few other _open-source projects_.
 
 #### Previously employed with
 
-| Employer                                           | Years     |
-|----------------------------------------------------|:---------:|
-| [Quinbay *(formerly Coviam)*](https://quinbay.com) | 2018-2021 |
-| Quiph Media *(SuperShare)*                         | 2021-2022 |
+| Employer                                           |   Years   |
+| -------------------------------------------------- | :-------: |
+| [Quinbay _(formerly Coviam)_](https://quinbay.com) | 2018-2021 |
+| Quiph Media _(SuperShare)_                         | 2021-2022 |
 | Quizizz                                            | 2022-2023 |
 
 :::tip PS: Q Factor
@@ -43,11 +44,11 @@ Check for the companies I have worked with starting with Q 😄
 
 ### Entrepreneur
 
-- *Twople* - a marketplace of activities
+- _Twople_ - a marketplace of activities
   - Build and ran operations.
   - ~500 Monthly Active Users and ~50 Monthly orders
-- Formed *Qruze* - a community of car and road trip enthusiasts
-- *Quido* - researched and worked on childcare and Early childhood development.
+- Formed _Qruze_ - a community of car and road trip enthusiasts
+- _Quido_ - researched and worked on childcare and Early childhood development.
 
 ## Social Links
 
