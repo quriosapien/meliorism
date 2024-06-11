@@ -59,10 +59,12 @@ I love reading and always look for another great recommendation
 Here are some good books I know of -
 
 - User Friendly
-- Move Fast: How Facebook Builds Software
-- Founders at Work
+- Move Fast: How Facebook Builds Software - Jeff Meyerson
+- Founders at Work - Jessica Livingston
 - Leap Frog
+- The Defining Decade 20 - Meg Jay
 
 ## Other resources
 
 - [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
+- [Don't Ask To Ask](https://dontasktoask.com)
