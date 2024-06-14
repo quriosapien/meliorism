@@ -53,6 +53,7 @@ Learn how JavaScript is used to add various functionality in the web-page, effec
 Instructions -
 
 - It's recommended to use FrameWork (like [VueJS](https://vuejs.org), [ExpressJS](https://expressjs.com))
+- TODO - Reminder to self to create a full-stack project template
 - Use continous integration and deployment, and hosting tools
 
   - Integration tools - [Github](https://github.com)
