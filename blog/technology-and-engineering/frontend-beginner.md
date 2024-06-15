@@ -65,7 +65,7 @@ Instructions -
 
 - ### **Project 3 - Dictionary**
 
-Free Dictionary API - https://dictionaryapi.dev/
+Implement Dictionary in a web-app. [Project statement here](/technology-and-engineering/projects/dictionary)
 
 ## System Design
 
