@@ -63,6 +63,10 @@ Instructions -
 
 - ### **Project 2 - Video-Streaming-Site**
 
+- ### **Project 3 - Dictionary**
+
+Free Dictionary API - https://dictionaryapi.dev/
+
 ## System Design
 
 ### CricBuzz
