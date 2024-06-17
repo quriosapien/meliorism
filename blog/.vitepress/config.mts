@@ -128,5 +128,6 @@ export default defineConfig({
   lastUpdated: true,
   sitemap: {
     hostname: 'https://meliorism.ink'
-  }
+  },
+  cleanUrls: true
 })
