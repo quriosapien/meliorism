@@ -29,7 +29,8 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Being Better Software Engineer', link: '/technology-and-engineering/being-better-software-engineers' },
-            { text: 'A Year of Entrepreneurship', link: '/memoirs/a-year-of-entrepreneurship' }
+            { text: 'A Year of Entrepreneurship', link: '/memoirs/a-year-of-entrepreneurship' },
+            { text: 'Learning Entrepreneurship', link: '/lets-learn/entrepreneurship' }
           ]
         },
   
