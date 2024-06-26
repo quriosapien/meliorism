@@ -11,7 +11,7 @@ A simple tutorial should be good enough to get you going. Dont' spend more than 
 #### _Exercise - HTML, CSS_
 
 - **Exercise 1 (HTML/CSS) - Build a Hostel-Admission Form**
-- **Exercise 2 (HTML/CSS) - TODO**
+- **Exercise 2 (HTML/CSS) - Build an Ecommerce Product Card**
 - **Exercise 3 (HTML/CSS) - Fun with Flags**
 
 ### JS - Language
@@ -26,7 +26,8 @@ Learn how JavaScript is used to add various functionality in the web-page, effec
 
 #### _Exercise - JS Language, DOM_
 
-- **Exercise 4 (JS Language, DOM) - Build TicTacToe Game**
+- **Exercise 4 (JS Language, DOM) - BMI Calculator**
+- **Exercise 5 (JS Language, DOM) - Build TicTacToe Game**
 
 ### JS - WebAPIs, Fetch
 
@@ -34,7 +35,7 @@ Learn how JavaScript is used to add various functionality in the web-page, effec
 
 #### _Exercise - WebAPIs, Fetch, Routing_
 
-- **Exercise 5 (JS WebAPIs, Fetch, Routing) - Build a Music Player**
+- **Exercise 6 (JS WebAPIs, Fetch, Routing) - Build a Music Player**
 
 ### JS - Debugging and Developer's Tools
 
@@ -45,8 +46,6 @@ Learn how JavaScript is used to add various functionality in the web-page, effec
 ### State Management
 
 ### Frameworks - VueJS
-
-### BMI Calculator
 
 ## Projects
 
@@ -70,3 +69,7 @@ Implement Dictionary in a web-app. [Project statement here](/technology-and-engi
 ## System Design
 
 ### CricBuzz
+
+### Pinterest
+
+### Netflix
