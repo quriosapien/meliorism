@@ -11,7 +11,7 @@ hero:
     alt: Kumar Gaurav
   actions:
     - theme: brand
-      text:  More about me
+      text: More about me
       link: /about-kumar-gaurav
     - theme: none
       text: Recent contents
@@ -23,7 +23,7 @@ features:
   - title: Software Engineer
     details: With over 5+ years of experience developing and deploying full-stack web/mobile apps at varying scale.
   - title: Design Enthusiast
-    details: Always curious to learn about good designs. 
+    details: I appreicate thoughtful designs, and am always curious to learn more about design.
 ---
 
 <h3 style="text-align: center; margin: 200px auto 50px;">Photo Gallery</h3>
