@@ -14,7 +14,7 @@ next:
 Sure. To start with, you can call me Kumar or Gaurav, both works! (Some people go with full name, or initialst too...)  
 _I am a little too busy in my life to mind any of that..._
 
-Born and brought up in parts of Central India, shifted to and stayed in Delhi before joining [MSRIT (now Ramaiah Institute of Technology) in Bangalore](https://www.msrit.edu/).  
+Born and brought up in parts of Central India, studied at [RKVV, Bijuri](https://www.google.com/search?q=RKVV+Bijuri), [KV Baikunthpur](https://www.google.com/search?q=KV+Baikunthpur), and then at [DPS Bhilai](https://www.google.com/search?q=DPS+Bhilai). I shifted to and stayed in Delhi before joining [MSRIT (now Ramaiah Institute of Technology) in Bangalore](https://www.msrit.edu/).  
 Graduated in 2018, I started working with startups and enjoyed it sooo much, that I prefer to work with satrtups.  
 I am based out of [HSR Layout](/hsr-layout) now and enjoy the vast community of founders and investors here. Made some really good friends here too.
 
