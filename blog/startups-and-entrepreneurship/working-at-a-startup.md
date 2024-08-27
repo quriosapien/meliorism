@@ -1,4 +1,4 @@
-# A Note on Working At A Startup
+# A Note on Working at a Startup
 
 Having met a lot of people who have a misconception of how is it to be working at a startup, I was motivated to write this.
 
