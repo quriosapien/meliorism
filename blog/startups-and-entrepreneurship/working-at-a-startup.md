@@ -21,6 +21,31 @@ While most of these are very contextual (different companies have different dyna
 
 ### Culture practices we should look for
 
+There's no silver line when it comes to best or worst practices. Nevertheless, there are a few things that I look for, and a few which I avoid in a startup.
+
+#### The good part -
+
+##### Vision
+
+Sounds cliche, right!
+Well what I look through their vision is, how confident are they on their bets.
+
+Think of this, would you want to get operated upon by a doctor who practices part time, is not very confident of his skills ??
+No, right. Then why would you join a team who's not sure of their vision.
+"If it works, if we grow, if we survive" aren't phrases used by visionary teams.
+
+#### Things to avoid
+
+##### Extreme work hours
+
+Quantity doesn't naturally means Quality.  
+Companies who think that working a couple more hours would get them to scale or reach product-market fit faster, are usually not so competent.
+I avoid working Saturdays, love casual Fridays, no meeting days once a week or so.
+
+##### Negotiations
+
+Typically, companies that negotiate a lot are usually short-sighted. They don't have long term plans or good startegy for long term game.
+
 ### My own experience
 
 From my own experience, I can list a few things about the startups I have worked for
