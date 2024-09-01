@@ -44,6 +44,6 @@ features:
     src="./assets/images/kumar-gaurav-3.jpeg">
 </div>
 
-Follow me on [instagram](https://instagram.com/QurioSapien) for more pics and snaps
-
----
+<p style="text-align: center;">
+  Follow me on <a href="https://x.com/QurioSapien">X (Twitter)</a><span style="margin: 0px 4px;" >or</span><a href="https://linkedin.com/in/heykumargaurav">LinkedIn</a> for updates.
+</p>
