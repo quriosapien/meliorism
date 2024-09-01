@@ -1,6 +1,6 @@
 # 10 Trillion Economy
 
-Bharat, is growing at a great pace. Faster than most other economies in the world.
+Bharat, is growing at a great pace and so is its economy. Faster than most other economies in the world.
 It's not a fluke., but rather a result of a great vision.
 
 For quite some time, we weren't as aspirational as we are today. We are leading in some way or other in various sectors worldwide, for example in fintech, in digital connectivity and mobility, space research, renewable energy.  
