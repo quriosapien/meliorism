@@ -9,4 +9,4 @@ But we have caught up a lot. Many of our top political leaders, don't look up ju
 So, given the direction and velocity with which we are heading, if anything, we are going to be a 10 Trillion economy.
 
 Something worth pondering here would be, how would the Bharat of 10 Trillion GDP would look like.
-Which all sectores would be 10x of what it's today?
+Which all sectors would be 10x of what it's today?
