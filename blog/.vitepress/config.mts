@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 
 export default defineConfig({
-  title: "Meliorism",
+  title: "Meliorism | Hope of a better world",
   description: "My perspective - Kumar Gaurav",
   themeConfig: {
     
@@ -28,6 +28,7 @@ export default defineConfig({
           text: 'Some Latest Contents',
           collapsed: false,
           items: [
+            { text: '10 Trillion Economy', link: '/startups-and-entrepreneurship/10-trillion-economy' },
             { text: 'Being Better Software Engineer', link: '/technology-and-engineering/being-better-software-engineers' },
             { text: 'A Year of Entrepreneurship', link: '/memoirs/a-year-of-entrepreneurship' },
             { text: 'Learning Entrepreneurship', link: '/lets-learn/entrepreneurship' }

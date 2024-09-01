@@ -1,8 +1,8 @@
 # Recent Contents
 
-- [A Note on Working At A Startup](./startups-and-entrepreneurship/working-at-a-startup)
+- [10 Trillion Economy](./startups-and-entrepreneurship/10-trillion-economy)
 
-- [Trip to Rameshwaram](./travel-and-trips/2024-rameshwaram)
+- [A Note on Working At A Startup](./startups-and-entrepreneurship/working-at-a-startup)
 
 - [A year of Entrepreneurship](./memoirs/a-year-of-entrepreneurship)
 
