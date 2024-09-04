@@ -1,12 +1,9 @@
 # 10 Trillion Economy
 
-Bharat, is growing at a great pace and so is its economy. Faster than most other economies in the world.
-It's not a fluke., but rather a result of a great vision.
+Bharat is growing at a great pace, and so is its economy - faster than most other economies in the world. This isn't a fluke, but rather the result of a great vision.
 
-For quite some time, we weren't as aspirational as we are today. We are leading in some way or other in various sectors worldwide, for example in fintech, in digital connectivity and mobility, space research, renewable energy.  
-But we have caught up a lot. Many of our top political leaders, don't look up just for survival, but are hopeful for best growth.
+For quite some time, we weren't as aspirational as we are today. Now, we are leading in various sectors worldwide, such as fintech, digital connectivity and mobility, space research, and renewable energy. We have caught up significantly, and many of our top political leaders are no longer focused solely on survival, but are hopeful for the best growth.
 
-So, given the direction and velocity with which we are heading, if anything, we are going to be a 10 Trillion economy.
+Given the direction and velocity with which we are heading, it's clear that we are on track to become a 10 Trillion economy.
 
-Something worth pondering here would be, how would the Bharat of 10 Trillion GDP would look like.
-Which all sectors would be 10x of what it's today?
+Something worth pondering here would be: how would Bharat look with a 10 Trillion GDP? Which sectors would grow tenfold from where they are today? These questions will shape our future as we continue on this remarkable journey of growth and innovation.
