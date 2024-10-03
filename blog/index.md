@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Entrepreneur
-    details: Tried my hands building my own Venture. Super amazed by what it takes to be a founder.
+    details: Tried my hands on building my own Venture. Super amazed by what it takes to be a founder.
   - title: Software Engineer
     details: With over 5+ years of experience developing and deploying full-stack apps at varying scale.
   - title: Design Enthusiast
