@@ -19,11 +19,11 @@ hero:
 
 features:
   - title: Entrepreneur
-    details: Build Twople, Qruze among other ventures. Most of my time goes in this domain.
+    details: Tried my hands building my own Venture. Super amazed by what it takes to be a founder.
   - title: Software Engineer
-    details: With over 5+ years of experience developing and deploying full-stack web/mobile apps at varying scale.
+    details: With over 5+ years of experience developing and deploying full-stack apps at varying scale.
   - title: Design Enthusiast
-    details: I appreicate thoughtful designs, and am always curious to learn more about design.
+    details: I appreicate thoughtful designs, and am always curious to learn why something was build in that particular way.
 ---
 
 <h3 style="text-align: center; margin: 200px auto 50px;">Photo Gallery</h3>
