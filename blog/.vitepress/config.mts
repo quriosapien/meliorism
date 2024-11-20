@@ -21,7 +21,7 @@ export default defineConfig({
           items: [
             { text: 'About Me', link: '/about-kumar-gaurav' },
             { text: 'Recent Contents', link: '/recent-contents' },
-            { text: 'Follow me on Twitter', link: 'https://x.com/quriosapein' },
+            { text: 'Follow me on Twitter', link: 'https://x.com/QurioSapien' },
           ]
         },
         {
@@ -39,14 +39,14 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'x', link: 'https://x.com/quriosapien' },
+      { icon: 'x', link: 'https://x.com/QurioSapien' },
       { icon: 'linkedin', link: 'https://linkedin.com/in/heykumargaurav' },
       { icon: 'github', link: 'https://github.com/quriosapien' }
     ],
 
     footer: {
       message: 'Handcrafted with 💜 in Bangalore, India',
-      copyright: 'Copyright © 1995-present <a href="https://x.com/quriosapien" target="_blank" rel="noreferrer">Kumar Gaurav</a>'
+      copyright: 'Copyright © 1995-present <a href="https://x.com/QurioSapien" target="_blank" rel="noreferrer">Kumar Gaurav</a>'
     }
   },
   head: [
