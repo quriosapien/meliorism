@@ -28,8 +28,10 @@ export default defineConfig({
           text: 'Some Latest Contents',
           collapsed: false,
           items: [
+            { text: 'Curiosity & Adaptability', link: '/human-behaviour/curiosity-and-adaptability' },
             { text: '10 Trillion Economy', link: '/startups-and-entrepreneurship/10-trillion-economy' },
             { text: 'Being Better Software Engineer', link: '/technology-and-engineering/being-better-software-engineers' },
+            { text: 'Career and Professions', link: '/career-and-profession/' },
             { text: 'A Year of Entrepreneurship', link: '/memoirs/a-year-of-entrepreneurship' },
             { text: 'Learning Entrepreneurship', link: '/lets-learn/entrepreneurship' }
           ]
