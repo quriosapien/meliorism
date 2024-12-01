@@ -1,5 +1,7 @@
 # Recent Contents
 
+- [Curiosity and Adaptability](./human-behaviour/curiosity-and-adaptability)
+
 - [10 Trillion Economy](./startups-and-entrepreneurship/10-trillion-economy)
 
 - [A Note on Working At A Startup](./startups-and-entrepreneurship/working-at-a-startup)

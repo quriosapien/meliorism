@@ -36,3 +36,10 @@ In every conversation, scenario, or challenge, we have the choice to engage with
 
 So, next time you find yourself in a conversation or facing a difficult situation, ask yourself:  
 _Am I leaning into curiosity, or am I shutting myself off from new possibilities?_
+
+---
+
+## Further Reads
+
+- ["The Power of Believing That You Can Improve" by Carol Dweck (TED Blog)](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?subtitle=en)  
+  Carol Dweck outlines the impact of mindset on learning and success, offering practical advice on how to develop a growth mindset.
