@@ -11,7 +11,7 @@ next:
 
 ## Okay Kumar, so tell me about yourself
 
-Alright! To start with, you can call me Kumar or Gaurav, both works! (Some people go with full name, or initialst too...)  
+Alright! To start with, you can call me Kumar or Gaurav, both works! (Some people go with full name, or initials too...)  
 _I am a little too busy in my life to mind any of that..._
 
 Born and brought up in parts of Central India, studied at [RKVV, Bijuri](https://www.google.com/search?q=RKVV+Bijuri), [KV Baikunthpur](https://www.google.com/search?q=KV+Baikunthpur), and then at [DPS Bhilai](https://www.google.com/search?q=DPS+Bhilai). I shifted to and stayed in Delhi before joining [MSRIT (now Ramaiah Institute of Technology) in Bangalore](https://www.msrit.edu/).  
