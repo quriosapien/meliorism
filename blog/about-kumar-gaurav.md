@@ -12,23 +12,24 @@ next:
 ## Okay Kumar, so tell me about yourself
 
 Alright! To start with, you can call me Kumar or Gaurav, both works! (Some people go with full name, or initials too...)  
-_I am a little too busy in my life to mind any of that..._
+_I’m usually too busy with life to care about the details, though!_
 
-Born and brought up in parts of Central India, studied at [RKVV, Bijuri](https://www.google.com/search?q=RKVV+Bijuri), [KV Baikunthpur](https://www.google.com/search?q=KV+Baikunthpur), and then at [DPS Bhilai](https://www.google.com/search?q=DPS+Bhilai). I shifted to and stayed in Delhi before joining [MSRIT (now Ramaiah Institute of Technology) in Bangalore](https://www.msrit.edu/).  
-Graduated in 2018, I started working with startups and enjoyed it sooo much, that now I prefer to work with satrtups.  
-I am based out of [HSR Layout](/hsr-layout) now and enjoy the vast community of founders and investors here. Made some really good friends here too.
+Born and raised in Central India, I studied at [RKVV, Bijuri](https://www.google.com/search?q=RKVV+Bijuri), [KV Baikunthpur](https://www.google.com/search?q=KV+Baikunthpur), and later at [DPS Bhilai](https://www.google.com/search?q=DPS+Bhilai). After my school years, I moved to Delhi, before heading to [MSRIT (now Ramaiah Institute of Technology)](https://www.msrit.edu/) in Bangalore for my college education.
 
-I interned and worked full time briefly as Business Development Executive with a Flipkart funded startup (TinyStep), quickly moving to the Software realm which I enjoy. Worked for 5+ years in capacity of FullStack Software Engineer with startups of various size and scale ([details below](/about-kumar-gaurav.html#software-engineer)).  
-I absolutely enjoyed working close to founders.
+I graduated in 2018 and started my career in the startup ecosystem, which I quickly realized I absolutely love. Now, I prefer working with startups in various capacities.
+I’m currently based out of [HSR Layout](/hsr-layout) and enjoy being part of the vibrant community of founders and investors here. I've met some incredible people along the way, and made some great friends too.
 
-To harness my new found interest in Entrepreneurship, I left Quizizz in Jan'23 and started building my own company. Lots of learnings, realised what I am good at (_tech, product, analytics_) and what I need to work upon (_cold-communications, sales, marketing, strategies, market-research_).
+My journey started as a Business Development Executive at a Flipkart-funded startup, TinyStep. But soon, I transitioned into the software world, and I’ve been working as a Full-Stack Software Engineer ever since. It's been an exciting 5+ years with startups of various sizes, which I've found incredibly rewarding. [You can find more about my work as a Software Engineer here](/about-kumar-gaurav.html#software-engineer).
+What excites me most is working closely with founders and solving real-world problems with technology.
 
-Recently, I joined [SnapTrude](https://snaptrude.com).
+In January 2023, I left Quizizz to explore my newfound interest in Entrepreneurship. Building my own company has been an intense learning experience. I’ve discovered what I’m good at _(tech, product, analytics)_ and where I need to improve _(sales, marketing, strategies, cold communications, market research)_.
+
+Recently, I joined [SnapTrude](https://snaptrude.com), an exciting startup that I’m thrilled to be a part of.
 
 ### Software Engineer
 
-- building fullstack web applications since 2018.
-- contributed to **_Vuejs_**, particularly their _CLI tool_, among a few other _open-source projects_.
+- I’ve been building full-stack web applications since 2018.
+- Contributed to _Vue.js_, especially its _CLI tool_, along with a few other open-source projects.
 
 #### Previously employed with
 
@@ -39,7 +40,7 @@ Recently, I joined [SnapTrude](https://snaptrude.com).
 | [Quizizz](https://quizizz.com)                     | 2022-2023 |
 
 :::tip PS: Q Factor
-Check for the companies I have worked with starting with Q 😄
+Check out the companies I’ve worked with that all start with "Q"! 😄
 :::
 
 ### Entrepreneur
@@ -51,7 +52,7 @@ Check for the companies I have worked with starting with Q 😄
 - _Quido_ - researched and worked on childcare and Early childhood development.
 - _Prospecto AI_ - Automation and intelligence platform for outbound based sales.
 
-I am always happy to share my learnings, and experience building any and all of these.
+I’m always open to sharing my learnings from building these ventures and love discussing entrepreneurship.
 
 ## Social Links
 
