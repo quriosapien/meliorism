@@ -56,6 +56,14 @@ export default defineConfig({
   head: [
     [
       'script',
+      {
+        async: '',
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1963137247287119",
+        crossorigin: 'anonymous'
+      }
+    ],
+    [
+      'script',
       {},
       `(function(c,l,a,r,i,t,y) {
           c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
