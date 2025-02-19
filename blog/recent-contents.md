@@ -1,5 +1,9 @@
 # Recent Contents
 
+Disclaimer: Read at your own risk.
+
+- [Life Lately](/life-lately)
+
 - [Curiosity and Adaptability](./human-behaviour/curiosity-and-adaptability)
 
 - [10 Trillion Economy](./startups-and-entrepreneurship/10-trillion-economy)
