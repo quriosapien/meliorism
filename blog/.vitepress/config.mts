@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 
 export default defineConfig({
-  title: "Meliorism | Hope of a better world",
+  title: "Meliorism | A better world",
   description: "My perspective - Kumar Gaurav",
   themeConfig: {
     
