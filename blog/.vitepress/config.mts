@@ -10,7 +10,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About Me', link: '/about-kumar-gaurav' }
+      { text: 'About Me', link: '/about-kumar-gaurav' },
+      { text: 'QuidoBlog', link: 'https://blog.quido.club' }
     ],
 
     sidebar: {
@@ -28,6 +29,7 @@ export default defineConfig({
           text: 'Some Latest Contents',
           collapsed: false,
           items: [
+            { text: 'Life Lately', link: '/life-lately' },
             { text: 'Curiosity & Adaptability', link: '/human-behaviour/curiosity-and-adaptability' },
             { text: '10 Trillion Economy', link: '/startups-and-entrepreneurship/10-trillion-economy' },
             { text: 'Being Better Software Engineer', link: '/technology-and-engineering/being-better-software-engineers' },
