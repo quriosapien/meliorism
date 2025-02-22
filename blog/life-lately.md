@@ -9,5 +9,3 @@ I've also been dedicating time to daily learning.
 
 Unfortunately, music has taken a back seat, and I miss it dearly.  
 I am posting a lot more on [Twitter(or X)](https://x.com/QurioSapien)
-
--- for commit streak
