@@ -7,3 +7,9 @@ For quite some time, we weren't as aspirational as we are today. Now, we are lea
 Given the direction and velocity with which we are heading, it's clear that we are on track to become a 10 Trillion economy.
 
 Something worth pondering here would be: how would Bharat look with a 10 Trillion GDP? Which sectors would grow tenfold from where they are today? These questions will shape our future as we continue on this remarkable journey of growth and innovation.
+
+## Resources
+
+Here is a list of some really good resources I came acroos over internet.
+
+- [The 10 Trillion Economy - feat Dr. Shamika Ravi](https://www.youtube.com/watch?v=b1F0nK29OhU) - By WMG Group
