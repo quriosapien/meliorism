@@ -13,3 +13,4 @@ Something worth pondering here would be: how would Bharat look with a 10 Trillio
 Here is a list of some really good resources I came acroos over internet.
 
 - [The 10 Trillion Economy - feat Dr. Shamika Ravi](https://www.youtube.com/watch?v=b1F0nK29OhU) - By WMG Group
+- [India's Economic Growth | Dr. Shamika Ravi explains](https://www.youtube.com/watch?v=Axym2sGPu9w) - By [SansadTV](https://www.youtube.com/@SansadTV)
