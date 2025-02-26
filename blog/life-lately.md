@@ -1,3 +1,7 @@
+---
+prev: false
+---
+
 # Life Lately
 
 ## 2025
