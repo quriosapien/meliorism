@@ -13,3 +13,9 @@ I've also been dedicating time to daily learning.
 
 Unfortunately, music has taken a back seat, and I miss it dearly.  
 I am posting a lot more on [Twitter(or X)](https://x.com/QurioSapien)
+
+### Post Snaptrude
+
+#### 2025, March 1st
+
+Life's a little less stressed. Not worried of work anymore. I wonder if that could be maintained while working as well.
