@@ -8,6 +8,8 @@ Disclaimer: Read at your own risk.
 
 - [10 Trillion Economy](./startups-and-entrepreneurship/10-trillion-economy)
 
+- [Being Analyst](/technology-and-engineering/being-analyst)
+
 - [A Note on Working At A Startup](./startups-and-entrepreneurship/working-at-a-startup)
 
 - [A year of Entrepreneurship](./memoirs/a-year-of-entrepreneurship)
