@@ -20,3 +20,8 @@
 
 - The owner had to take a call to open another auditorium or not.
 - The owner sought help from a consultantancy firm, which concluded that the sales-growth has been declining.
+
+#### Questions
+
+Being an Analyst, what would you recommend to the owner?
+Should they invest in improving the current auditorium or open another one?
