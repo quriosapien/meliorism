@@ -102,11 +102,9 @@ Dec 2018 - Feb 2021
 
 ## Skillsets & Tools
 
----
-
 I have worked with quite a few tools, and I don't hesitate to pickup a new tool if it's efficient and useful for solving the problem in hand.
 
-##### Enlisting here some of them-
+### Enlisting here some of them-
 
 - HTML, CSS, TailwindCSS, SASS/SCSS
 - JavaScript, TS, ES6+, ESnext
