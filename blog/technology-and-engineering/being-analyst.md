@@ -1,6 +1,6 @@
 # Analyst
 
-## Some cases
+## Some Case Studies
 
 ### Case 1 - New Theatre opened
 
