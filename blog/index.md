@@ -26,24 +26,6 @@ features:
     details: I appreicate thoughtful designs, and am always curious to learn why something was build in that particular way.
 ---
 
-<h3 style="text-align: center; margin: 200px auto 50px;">Photo Gallery</h3>
-
-<div style="display: flex; flex-flow: wrap; align-items: center; justify-content: center;">
-  <img style="height: 600px; margin: 10px auto; border-radius: 18px; box-shadow: 20px 20px 10px 5px grey;" src="./assets/images/kumar-gaurav.jpg">
-</div>
-
-<div style="margin-top: 50px; margin-bottom: 100px; display: flex;">
-  <img
-    style="height: 400px; margin: 10px auto; border-radius: 24px; box-shadow: 12px 12px 4px 2px grey;"
-    src="./assets/images/kumar-gaurav-1.jpeg">
-  <img
-    style="height: 400px; margin: 10px auto; border-radius: 24px; box-shadow: 12px 12px 4px 2px grey;"
-    src="./assets/images/kumar-gaurav-2.jpeg">
-  <img
-    style="height: 400px; margin: 10px auto; border-radius: 24px; box-shadow: 12px 12px 4px 2px grey;"
-    src="./assets/images/kumar-gaurav-3.jpeg">
-</div>
-
 <p style="text-align: center;">
   Follow me on <a href="https://x.com/QurioSapien">X (Twitter)</a><span style="margin: 0px 4px;" >or</span><a href="https://linkedin.com/in/heykumargaurav">LinkedIn</a> for updates.
 </p>
