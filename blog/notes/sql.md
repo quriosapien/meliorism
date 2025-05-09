@@ -56,5 +56,3 @@
 - **Decimals**: `DECIMAL` for money (exact), `FLOAT/DOUBLE` for scientific.
 - **Strings**: `VARCHAR` for most text, `TEXT` for large content.
 - **Dates**: `DATETIME` for general use, `TIMESTAMP` for auto-updates.
-
-Need a deeper dive on any type? Ask away! 🚀
